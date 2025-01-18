@@ -1,0 +1,14 @@
+C:\Users\picmi\proiectecsharp\primelenumerepare\bin\Debug\net9.0\primelenumerepare.exe
+C:\Users\picmi\proiectecsharp\primelenumerepare\bin\Debug\net9.0\primelenumerepare.deps.json
+C:\Users\picmi\proiectecsharp\primelenumerepare\bin\Debug\net9.0\primelenumerepare.runtimeconfig.json
+C:\Users\picmi\proiectecsharp\primelenumerepare\bin\Debug\net9.0\primelenumerepare.dll
+C:\Users\picmi\proiectecsharp\primelenumerepare\bin\Debug\net9.0\primelenumerepare.pdb
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.AssemblyInfoInputs.cache
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.AssemblyInfo.cs
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.csproj.CoreCompileInputs.cache
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.dll
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\refint\primelenumerepare.dll
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.pdb
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\primelenumerepare.genruntimeconfig.cache
+C:\Users\picmi\proiectecsharp\primelenumerepare\obj\Debug\net9.0\ref\primelenumerepare.dll

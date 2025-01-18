@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "listeaza numerele de la 1 la 10/1.0.0": {
+        "runtime": {
+          "listeaza numerele de la 1 la 10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listeaza numerele de la 1 la 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

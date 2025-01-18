@@ -1,0 +1,14 @@
+C:\Users\picmi\proiectecsharp\DivideCuCinci\bin\Debug\net9.0\DivideCuCinci.exe
+C:\Users\picmi\proiectecsharp\DivideCuCinci\bin\Debug\net9.0\DivideCuCinci.deps.json
+C:\Users\picmi\proiectecsharp\DivideCuCinci\bin\Debug\net9.0\DivideCuCinci.runtimeconfig.json
+C:\Users\picmi\proiectecsharp\DivideCuCinci\bin\Debug\net9.0\DivideCuCinci.dll
+C:\Users\picmi\proiectecsharp\DivideCuCinci\bin\Debug\net9.0\DivideCuCinci.pdb
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.AssemblyInfoInputs.cache
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.AssemblyInfo.cs
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.csproj.CoreCompileInputs.cache
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.dll
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\refint\DivideCuCinci.dll
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.pdb
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\DivideCuCinci.genruntimeconfig.cache
+C:\Users\picmi\proiectecsharp\DivideCuCinci\obj\Debug\net9.0\ref\DivideCuCinci.dll

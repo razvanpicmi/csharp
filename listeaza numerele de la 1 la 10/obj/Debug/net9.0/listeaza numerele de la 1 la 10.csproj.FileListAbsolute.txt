@@ -1,0 +1,14 @@
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\bin\Debug\net9.0\listeaza numerele de la 1 la 10.exe
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\bin\Debug\net9.0\listeaza numerele de la 1 la 10.deps.json
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\bin\Debug\net9.0\listeaza numerele de la 1 la 10.runtimeconfig.json
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\bin\Debug\net9.0\listeaza numerele de la 1 la 10.dll
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\bin\Debug\net9.0\listeaza numerele de la 1 la 10.pdb
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.AssemblyInfoInputs.cache
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.AssemblyInfo.cs
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.csproj.CoreCompileInputs.cache
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.dll
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\refint\listeaza numerele de la 1 la 10.dll
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.pdb
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\listeaza numerele de la 1 la 10.genruntimeconfig.cache
+C:\Users\picmi\proiectecsharp\listeaza numerele de la 1 la 10\obj\Debug\net9.0\ref\listeaza numerele de la 1 la 10.dll

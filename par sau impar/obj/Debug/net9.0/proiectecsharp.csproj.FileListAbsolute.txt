@@ -1,0 +1,14 @@
+C:\Users\picmi\proiectecsharp\bin\Debug\net9.0\proiectecsharp.exe
+C:\Users\picmi\proiectecsharp\bin\Debug\net9.0\proiectecsharp.deps.json
+C:\Users\picmi\proiectecsharp\bin\Debug\net9.0\proiectecsharp.runtimeconfig.json
+C:\Users\picmi\proiectecsharp\bin\Debug\net9.0\proiectecsharp.dll
+C:\Users\picmi\proiectecsharp\bin\Debug\net9.0\proiectecsharp.pdb
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.AssemblyInfoInputs.cache
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.AssemblyInfo.cs
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.csproj.CoreCompileInputs.cache
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.dll
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\refint\proiectecsharp.dll
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.pdb
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\proiectecsharp.genruntimeconfig.cache
+C:\Users\picmi\proiectecsharp\obj\Debug\net9.0\ref\proiectecsharp.dll
